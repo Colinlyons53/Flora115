@@ -1,7 +1,7 @@
 {
   "name": "flora115",
   "version": "1.0.0",
-  "description": "Created this web app to help take care of the plants at my house.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Colinlyons53/Flora115#readme",
   "dependencies": {
-    "create-react-app": "^3.4.1",
-    "lodash": "^4.17.15"
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15"
   }
 }
